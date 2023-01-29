@@ -1,3 +1,6 @@
+##### First of all, thank you for using my projects, if you want me to keep maintaining them here a way to show you support.
+[🙏 DONATE](https://www.paypal.com/donate/?hosted_button_id=2WAMRESLC7YS2)
+
 # UltraStar Song Scrapper
 
 This script will scrap the website usdb.animux.de and try to download all the needed files to use in the game Ultrastar, if for some reason any of the 4 resources (lyrics, video, audio and cover) are missing the script will try to get it from external sources, like google or youtube.
