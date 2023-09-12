@@ -1,7 +1,7 @@
 ##### First of all, thank you for using my projects, if you want me to keep maintaining them here a way to show you support.
 [🙏 DONATE](https://www.paypal.com/donate/?hosted_button_id=2WAMRESLC7YS2)
 
-# UltraStar Song Scrapper
+# UltraStar Song Scraper
 
 This script will scrap the website usdb.animux.de and try to download all the needed files to use in the game Ultrastar, if for some reason any of the 4 resources (lyrics, video, audio and cover) are missing the script will try to get it from external sources, like google or youtube.
 
@@ -17,14 +17,14 @@ To setup make sure you are in a linux based environment that uses the `apt` pack
 
 To `try` to download all the database (Good Luck) just run the following command.
 
-> python3 scrape.py
+> python3 scraper.py
 
 If you want to download with more specificity, you can set the `Artist` or the `Artist` and `Song Name` (only the `Song Name` is not supported).
 `MAKE SURE YOU WRITE THE ARTIST AND SONG NAME AS WELL AS YOU CAN`
 
-> python3 scrape.py "Artist Name"
+> python3 scraper.py "Artist Name"
 
-> python3 scrape.py "Artist Name" "Song Name"
+> python3 scraper.py "Artist Name" "Song Name"
 
 ## Finished
 
